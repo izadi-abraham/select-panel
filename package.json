@@ -4,7 +4,7 @@
   "description": "A vue 3 multiselect component",
   "main": "index.js",
   "repository": "git@github.com:izadi-abraham/select-panel.git",
-  "author": "Abraham izadi <abraham.izadifashtami@stxgroup.com>",
+  "author": "Ebi izadi <abraham.izadi@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
