@@ -1,0 +1,13 @@
+{
+  "name": "select-panel",
+  "version": "1.0.0",
+  "description": "A vue 3 multiselect component",
+  "main": "index.js",
+  "repository": "git@github.com:izadi-abraham/select-panel.git",
+  "author": "Abraham izadi <abraham.izadifashtami@stxgroup.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue": "^3.4.32"
+  }
+}
