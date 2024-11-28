@@ -1,0 +1,29 @@
+{
+  "name": "select-panel",
+  "private": false,
+  "version": "0.0.0",
+  "description": "A Vue multiselect component",
+  "main": "dist/select-panel.umd.js",
+  "module": "dist/select-panel.es.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izadi-abraham/select-panel.git"
+  },
+  "author": "izadi.abraham@gmail.com",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.1",
+    "vue-tsc": "^2.1.10"
+  }
+}
