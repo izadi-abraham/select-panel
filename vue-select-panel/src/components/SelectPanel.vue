@@ -1056,6 +1056,9 @@ if (!observedElement) {
             </div>
         </div>
     </div>
+    <div class="m-8 text-green-600 text-xl">
+        the new text to test tailwind css
+    </div>
 </template>
 
 <style scoped>
